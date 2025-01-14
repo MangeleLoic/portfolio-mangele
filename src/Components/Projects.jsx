@@ -6,45 +6,45 @@ function Projects() {
   const projects = [
     {
       title: "Clone di Spotify",
-      description: "Descrizione breve del progetto 1",
+      description: "Realizzazione di un sito con ispirazione alla famosa app di streaming musicale",
       link: "https://new-spotfy.vercel.app/", 
       github: "https://github.com/MangeleLoic/new-spotfy.git",
-      image: "https://link-immagine-spotify.jpg"
+      image: "https://www.smartworld.it/images/2023/12/05/migliori-app-android-per-la-musica_1200x675.jpeg"
     },
     {
       title: "App Meteo",
-      description: "Descrizione breve del progetto 2",
+      description: "Semplice app di previsioni meteo",
       link: "https://app-meteo.vercel.app/", 
       github: "https://github.com/MangeleLoic/app_meteo.git",
-      image: "https://link-immagine-progetto2.jpg"
+      image: "https://ilbolive.unipd.it/sites/default/files/2022-05/n_meteo.jpg"
     },
     {
       title: "Progetto 3",
       description: "Descrizione breve del progetto 3",
       link: "https://link-al-tuo-progetto3", 
       github: "https://github.com/tuo-username/progetto3",
-      image: "https://link-immagine-progetto3.jpg"
+      image: "https://twproject.com/blog/wp-content/uploads/le-prestazioni-di-progetto.png"
     },
     {
       title: "Progetto 4",
       description: "Descrizione breve del progetto 4",
       link: "https://link-al-tuo-progetto4", 
       github: "https://github.com/tuo-username/progetto4",
-      image: "https://link-immagine-progetto4.jpg"
+      image: "https://twproject.com/blog/wp-content/uploads/le-prestazioni-di-progetto.png"
     },
     {
       title: "Progetto 5",
       description: "Descrizione breve del progetto 5",
       link: "https://link-al-tuo-progetto5", 
       github: "https://github.com/tuo-username/progetto5",
-      image: "https://link-immagine-progetto5.jpg"
+      image: "https://twproject.com/blog/wp-content/uploads/le-prestazioni-di-progetto.png"
     },
     {
       title: "Progetto 6",
       description: "Descrizione breve del progetto 6",
       link: "https://link-al-tuo-progetto6", 
       github: "https://github.com/tuo-username/progetto6",
-      image: "https://link-immagine-progetto6.jpg"
+      image: "https://twproject.com/blog/wp-content/uploads/le-prestazioni-di-progetto.png"
     }
   ];
 
