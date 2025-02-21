@@ -20,7 +20,7 @@ function Projects() {
     },
     {
       title: "Clone di Netflix",
-      description: "Realizzazione di un sito con ispirazione al famoso sito di streaming",
+      description: "Realizzazione di un sito con ispirazione al famoso sito di streaming(SOLO FRONTEND!)",
       link: "https://netflix-blue-seven.vercel.app/", 
       github: "https://github.com/MangeleLoic/netflix.git",
       image: "https://i.ytimg.com/vi/ZMak63mHq5Y/mqdefault.jpg"
