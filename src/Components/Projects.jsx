@@ -19,33 +19,13 @@ function Projects() {
       image: "https://ilbolive.unipd.it/sites/default/files/2022-05/n_meteo.jpg"
     },
     {
-      title: "Progetto 3",
-      description: "Descrizione breve del progetto 3",
-      link: "https://link-al-tuo-progetto3", 
-      github: "https://github.com/tuo-username/progetto3",
-      image: "https://twproject.com/blog/wp-content/uploads/le-prestazioni-di-progetto.png"
+      title: "Clone di Netflix",
+      description: "Realizzazione di un sito con ispirazione al famoso sito di streaming",
+      link: "https://netflix-blue-seven.vercel.app/", 
+      github: "https://github.com/MangeleLoic/netflix.git",
+      image: "https://i.ytimg.com/vi/ZMak63mHq5Y/mqdefault.jpg"
     },
-    {
-      title: "Progetto 4",
-      description: "Descrizione breve del progetto 4",
-      link: "https://link-al-tuo-progetto4", 
-      github: "https://github.com/tuo-username/progetto4",
-      image: "https://twproject.com/blog/wp-content/uploads/le-prestazioni-di-progetto.png"
-    },
-    {
-      title: "Progetto 5",
-      description: "Descrizione breve del progetto 5",
-      link: "https://link-al-tuo-progetto5", 
-      github: "https://github.com/tuo-username/progetto5",
-      image: "https://twproject.com/blog/wp-content/uploads/le-prestazioni-di-progetto.png"
-    },
-    {
-      title: "Progetto 6",
-      description: "Descrizione breve del progetto 6",
-      link: "https://link-al-tuo-progetto6", 
-      github: "https://github.com/tuo-username/progetto6",
-      image: "https://twproject.com/blog/wp-content/uploads/le-prestazioni-di-progetto.png"
-    }
+    
   ];
 
   return (
