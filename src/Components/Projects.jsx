@@ -16,7 +16,7 @@ function Projects() {
       description: "Semplice app di previsioni meteo",
       link: "https://app-meteo.vercel.app/", 
       github: "https://github.com/MangeleLoic/app_meteo.git",
-      image: "https://ilbolive.unipd.it/sites/default/files/2022-05/n_meteo.jpg"
+      image: "https://www.ilmeteo.it/portale/files/giornale/PicsArt_1446285857648.jpg"
     },
     {
       title: "Clone di Netflix",
