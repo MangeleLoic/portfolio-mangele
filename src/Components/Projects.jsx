@@ -25,6 +25,20 @@ function Projects() {
       github: "https://github.com/MangeleLoic/netflix.git",
       image: "https://i.ytimg.com/vi/ZMak63mHq5Y/mqdefault.jpg"
     },
+    {
+      title: "Ascal-Notes",
+      description: "Sito di reciproca condivisione di appunti di studio tra studenti(SOLO CODICE, DEPLOY IN FASE DI SVILUPPO)",
+      link: "...", 
+      github: "https://github.com/MangeleLoic/Capstone-AscalNotes-BackEnd.git",
+      image: "https://www.provincia.vicenza.it/immagini/work_in_porgress_.jpg/image"
+    },
+    {
+      title: "Direct-237",
+      description: "Sito di spedizione di pacchi. La prima release presenta per ora solo la pagina Admin terminata(lato frontend) in cui è possibile prenotare una spedizione(SOLO CODICE, DEPLOY IN FASE DI SVILUPPO)",
+      link: "...", 
+      github: "https://github.com/MangeleLoic/Direct237_2.0.git",
+      image: "https://www.provincia.vicenza.it/immagini/work_in_porgress_.jpg/image"
+    },
     
   ];
 
